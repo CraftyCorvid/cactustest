@@ -3,6 +3,7 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 **Test**
+![1451582_10151797875541947_128296446_n.jpg]({{site.baseurl}}/media/1451582_10151797875541947_128296446_n.jpg)
 
 
 _**asdfasdf**_
